@@ -1,0 +1,1 @@
+echo "Deploy at %date% %time%"
